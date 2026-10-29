@@ -5,5 +5,12 @@
   },
   "claimedAt": "2026-10-29T05:39:58.000Z",
   "records": {},
-  "country": "IN"
+  "country": "IN",
+  "subdomains": {
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=harshil.runs-on.dev,b6f90850096db56b3110"
+      ]
+    }
+  }
 }
