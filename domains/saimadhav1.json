@@ -6,12 +6,5 @@
   "claimedAt": "2026-09-03T03:51:55.651Z",
   "records": {
     "CNAME": "4026c10a43bf9d91.vercel-dns-017.com"
-  },
-  "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=saimadhav1.runs-on.dev,4f72f7402ab29cd10fe5"
-      ]
-    }
   }
 }
