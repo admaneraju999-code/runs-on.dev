@@ -7,5 +7,12 @@
   "records": {
     "CNAME": "5bcd4eea8a02765b.vercel-dns-017.com"
   },
-  "country": "PK"
+  "country": "PK",
+  "subdomains": {
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=awais.runs-on.dev,fe0a5d55a81cacf2181f"
+      ]
+    }
+  }
 }
